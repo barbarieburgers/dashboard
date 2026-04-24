@@ -227,3 +227,7 @@ body {
 /* Chart containers */
 .chart-box { height: 200px; width: 100%; }
 .chart-box-sm { height: 160px; width: 100%; }
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
