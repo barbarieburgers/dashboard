@@ -10,6 +10,13 @@ export const VENTAS_Q1 = {
 };
 
 export const BURGERS = {
+  abr: [
+    { n: 'Valkyria',      v: 172 }, { n: 'Cheese Burger', v: 158 }, { n: 'Ragnarok',      v: 105 },
+    { n: 'Whopper',       v: 94  }, { n: 'Vikinga',       v: 73  }, { n: 'California',    v: 62  },
+    { n: 'Eggocéntrica',  v: 38  }, { n: 'Wisconsin',     v: 24  }, { n: 'Freyja',        v: 35  },
+    { n: 'Wessex',        v: 29  }, { n: 'Tasty',         v: 40  }, { n: 'Oklahoma',      v: 30  },
+    { n: 'Argenta',       v: 12  }, { n: 'Bellpepper',    v: 21  },
+  ],
   ene: [
     { n: 'Cheese Burger', v: 237 }, { n: 'Valkyria', v: 204 }, { n: 'Tasty', v: 124 },
     { n: 'Ragnarok', v: 170 }, { n: 'California', v: 87 }, { n: 'Vikinga', v: 111 },
